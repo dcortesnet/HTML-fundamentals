@@ -4,7 +4,7 @@ Fundamentals of the HTML. Repository with examples and basic exercises of elemen
 
 ## Resources Spanish
 
-- [Introducción a HTML](https://medium.com/@diego.coder/introducci%C3%B3n-a-html-3851c6da5342)
+- [Fundamentos de HTML](https://medium.com/@diego.coder/introducci%C3%B3n-a-html-3851c6da5342)
 
 ## Team
 
