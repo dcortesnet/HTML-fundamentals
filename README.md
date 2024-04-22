@@ -8,10 +8,6 @@ Fundamentals of the HTML. Repository with examples and basic exercises of elemen
 - Developer Mozilla HTML: https://developer.mozilla.org/en-US/docs/Web/HTML
 - Stackoverflow HTML questions: https://stackoverflow.com/questions/tagged/html
 
-## Personal blog about HTML
-
-- [Fundamentos de HTML](https://medium.com/@diego.coder/introducci%C3%B3n-a-html-3851c6da5342)
-
 ## Team
 
 Developed by Diego Cortés
